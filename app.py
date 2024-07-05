@@ -3,5 +3,5 @@ app = Flask(__name__)
 
 @app.route("/")
 def hello():
-    return "Hello, World! Pear. We want an example of speach sythnesys in Englich and SHona"
+    return "Hello, World! Pear. We want an example of speach synthesis in Englich and SHona"
     
